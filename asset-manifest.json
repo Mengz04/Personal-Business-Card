@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Personal-Business-Card/static/css/main.8210d725.css",
+    "main.js": "/Personal-Business-Card/static/js/main.a1f3f1fc.js",
+    "static/media/profpic.png": "/Personal-Business-Card/static/media/profpic.877d91c284a9176d8398.png",
+    "index.html": "/Personal-Business-Card/index.html",
+    "main.8210d725.css.map": "/Personal-Business-Card/static/css/main.8210d725.css.map",
+    "main.a1f3f1fc.js.map": "/Personal-Business-Card/static/js/main.a1f3f1fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8210d725.css",
+    "static/js/main.a1f3f1fc.js"
+  ]
+}
